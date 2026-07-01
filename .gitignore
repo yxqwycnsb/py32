@@ -55,6 +55,5 @@ dkms.conf
 *.dwo
 
 .workflow
-projects
 .workspace
 .trae
